@@ -5,6 +5,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 googleAnalytics = "UA-123-45"
 theme = "dimension"
+publishDir = "docs"
 
 [blackfriday]
     hrefTargetBlank = true
