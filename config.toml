@@ -11,7 +11,7 @@ publishDir = "docs"
 
 [params]
   description = '<!--[-->Otomore is an Developer based in Tokyo.<!--]--><br />
-  <!--[-->It&rsquo;s a specification, not a bug.<!--]-->'
+                 <!--[-->It&rsquo;s a specification, not a bug.<!--]-->'
   logo = "fa-volume-up"
   copyright = "Otomore"
   Twitter = "@otomroe01"
