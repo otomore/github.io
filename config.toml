@@ -1,6 +1,6 @@
-baseurl = "https://otomore.com"
+baseurl = "https://www.otomore.com/"
 title = "otomore"
-languageCode = "ja"
+languageCode = "en-us"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 googleAnalytics = "UA-123-45"
