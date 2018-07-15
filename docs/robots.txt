@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://otomore.github.io/sitemap.xml
+Sitemap: https://www.otomore.com/sitemap.xml
