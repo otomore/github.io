@@ -5,7 +5,7 @@ draft = false
 +++
 
 ## Developer / Programmer
-{{< figure class="image main" src="/images/pic03.jpg" >}}
+{{< figure class="image main" src="/images/pic01.png" >}}
 
 ## Skills
 HTML / CSS / Sass / SCSS / JavaScript / jQuery / WordPress / openFrameworks / OpenCV / Java / C / C++ / Python / Photoshop / Illustrator / PostgreSQL / AWS / Git

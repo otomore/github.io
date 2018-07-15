@@ -5,4 +5,4 @@ draft = false
 +++
 
 ## Comming soon ...
-{{< figure class="image main" src="/images/pic02.jpg" >}}
+{{< figure class="image main" src="/images/pic02.png" >}}
