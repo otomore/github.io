@@ -1,4 +1,4 @@
-baseurl = "https://otomore.com"
+baseurl = "https://www.otomore.com"
 title = "otomore"
 languageCode = "ja"
 enableRobotsTXT = true
@@ -14,6 +14,7 @@ publishDir = "docs"
   <!--[-->It&rsquo;s a specification, not a bug.<!--]-->'
   logo = "fa-volume-up"
   copyright = "Otomore"
+  Twitter = "@otomroe01"
 
 [[params.social]]
   medium = "twitter"
