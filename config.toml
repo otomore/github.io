@@ -1,4 +1,4 @@
-baseurl = "https://www.otomore.com"
+baseurl = "https://otomore.com"
 title = "otomore"
 languageCode = "ja"
 enableRobotsTXT = true
