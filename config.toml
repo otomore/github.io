@@ -10,7 +10,7 @@ publishDir = "docs"
     hrefTargetBlank = true
 
 [params]
-  description = '<!--[-->Otomore is an Developer based in Tokyo.<!--]--><br />
+  description = '<!--[-->Otomore is a Developer based in Tokyo.<!--]--><br />
                  <!--[-->It&rsquo;s a specification, not a bug.<!--]-->'
   logo = "fa-volume-up"
   copyright = "Otomore"
